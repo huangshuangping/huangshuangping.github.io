@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/index.html
-title: 科研创新
+title: 我的团队
 ---
 
 # About Team
