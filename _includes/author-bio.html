@@ -4,9 +4,9 @@
 
 <p>{{ site.owner.bio }}</p>
 
-{% if site.owner.email %}<p style="text-indent:0;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="fa fa-fw fa-envelope-o" aria-hidden='true'>::before</i>"{{site.owner.email}}"</a></p>{% endif %}
+{% if site.owner.email %}<p style="text-indent:0;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="fa fa-fw fa-envelope-o" aria-hidden='true'></i>"{{site.owner.email}}"</a></p>{% endif %}
 
-{% if site.owner.email %}<p style="text-indent:0;"><a href="{{site.owner.school}}" target="_blank"><i class="fa fa-fw fa-building-o" aria-hidden='true'>::before</i>"SCUT"</a></p>{% endif %}
+{% if site.owner.email %}<a href="{{site.owner.school}}" target="_blank"><i class="fa fa-fw fa-building-o" aria-hidden='true'></i>"SCUT"</a></p>{% endif %}
 
 {% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"></i> My CV</a></p>{% endif %}
 
