@@ -1,4 +1,4 @@
-title: Hanlin Cai
+title: Shuangping Huang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,13 +6,12 @@ url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Shuangping Huang
+  avatar: images\HSP.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: eehsp@scut.edu.cn
+  school: SCUT
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
   github: GuangLun2000
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -38,19 +37,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: 科研项目
+    url: /project/
+  - title: 发表论文
+    url: /paper/
+  - title: 科研创新
+    url: /patent/
+  - title: 我的团队
+    url: /team/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Guangzhou
 future: true
 highlighter: rouge
 # markdown: kramdown
