@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 个人介绍
+## 个人介绍
 
 <img src="images\HSP.jpg" class="floatpic" width="360" height="480">
 
