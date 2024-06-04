@@ -32,7 +32,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 个人介绍
     url: /
   - title: 科研项目
     url: /project/
