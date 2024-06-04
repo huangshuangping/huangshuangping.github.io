@@ -60,5 +60,15 @@ layout: page
 - 研究生课程：深度学习
 
 ---
+
+## 指导学生情况
+
+- **2020:** 识古通今-OCR 技术领航者，第六届中国国际“互联网+”大学生创新创业大赛的国赛金奖
+- **2017:** 基于深度学习的自然场景文本检测，第十四届“ 挑战杯” 广东大学生课外学术科技作品竞赛，自然科学类学术论文组，特等奖
+- **2019:** 第二届中国模式识别与计算机视觉大会面向自动阅卷的OCR技术挑战赛文字识别任务一等奖
+- **2020:** 教育手写公式识别，中国创新挑战赛智慧教育专题赛三等奖
+- **2018:** 基于深度学习的图像文字识别，2018年大学生创新创业训练计划项目优秀结题
+
+---
 <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
