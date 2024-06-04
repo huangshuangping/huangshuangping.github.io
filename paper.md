@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teams/index.html
+permalink: /paper/index.html
 title: 发表论文
 ---
 

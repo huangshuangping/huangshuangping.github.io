@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teams/index.html
+permalink: /patent/index.html
 title: 科研创新
 ---
 
