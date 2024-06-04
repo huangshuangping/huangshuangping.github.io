@@ -1,8 +1,8 @@
-<p style="text-align: center;"><img src="../images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></i>{{ site.title }}</a></p>
+<p style="text-align: center;"><img src="../images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></i></a></p>
 
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
-<p style="text-indent:0;margin-top:1.5em;">{{ site.title }}</p>
+<p style="text-indent:0;margin-top:1.5em;"><strong>{{ site.title }}</strong></p>
 <p>{{ site.owner.bio }}</p>
 
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail" ></i> {{site.owner.email}}</a></p>{% endif %}
