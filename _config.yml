@@ -41,9 +41,9 @@ links:
   - title: 发表论文
     url: /paper/
   - title: 授权专利
-    url: /team/
+    url: /patent/
   - title: 团队介绍
-    url: /team/
+    url: /project/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # timezone: China/Guangzhou
