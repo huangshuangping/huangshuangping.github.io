@@ -15,9 +15,9 @@ title: 发表论文
 - Ziyong Feng, Zhaoyang Zhao, Lianwen Jin, Shuangping Huang*, Robust shared feature learning for script and handwritten/machine-printed identification, Pattern Recognition Letters，2017（IF=3.255, JCR Q2）
 - Hongxiang Huang, Daihui Yang, Shuangping Huang, AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation, ACM MM 2022，CCF A, Accepted
 - Haojie Li, Daihui Yang, Shuangping Huang*, Kin-Man Lam, Deep Motion-Appearance Convolutions for Robust Visual Tracking, IEEE ACCESS, 2019（IF=3.7，JCR Q1）
-- Huang Shuangping, Qi Long, Ma Xu, Xue Kunnan, Wang Wenjuan, Zhu Xiaoyuan, BoSW Model Based Hyperspectral Image Analysis for Rice Panicle Blast Grading, Computers and Electronics in Agriculture, 118: 167-178, 2015（IF=3.858，JCR Q1）
+- Shuangping Huang, Qi Long, Ma Xu, Xue Kunnan, Wang Wenjuan, Zhu Xiaoyuan, BoSW Model Based Hyperspectral Image Analysis for Rice Panicle Blast Grading, Computers and Electronics in Agriculture, 118: 167-178, 2015（IF=3.858，JCR Q1）
 - Huang Shuangping, Qi Long, Ma Xu, Xue Kunnan, Wang Wenjuan, Zhu Xiaoyuan, Deep localization model for intra-row crop detection in paddy field, Computers and Electronics in Agriculture, 169: 1-12, 2019（IF=3.858，JCR Q1）
-- Shingling Huang, Lianwen Jin, Yuan Fang, Xiaoxin Wei, Online Heterogeneous Feature Fusion Machines for Visual Recognition, Neurocomputing, 123(10): 100-109, 2014 (IF=4.438, JCR Q1);
+- Shuangping Huang, Lianwen Jin, Yuan Fang, Xiaoxin Wei, Online Heterogeneous Feature Fusion Machines for Visual Recognition, Neurocomputing, 123(10): 100-109, 2014 (IF=4.438, JCR Q1);
 - Shuangping Huang, Lianwen Jin, Yunyu Li, Kunnan Xue, Long Qi, Online Multi-kernel Learning Based on a Triple Norm Regularizer for Semantic Image Classification, Mathematical Problems in Engineering，2015（IF=1.145，JCR Q3）.
 - Zhenzhou Zhuang, Zonghao Liu, Shuangping Huang, A New Semi-Automatic Annotation Model for Text Detection via Semantic Boundary Estimation, ICDAR 2021
 - Shuangping Huang, Yu Luo, Zhenzhou Zhuang, Context-Aware Selective Label Smoothing for Calibrating Sequence Recognition Models, ACM MM 2021, CCF A, Accepted
