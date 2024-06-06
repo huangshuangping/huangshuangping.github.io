@@ -46,7 +46,7 @@ links:
     url: /team/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Guangzhou
+# timezone: China/Guangzhou
 future: true
 highlighter: rouge
 # markdown: kramdown
