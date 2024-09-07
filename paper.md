@@ -11,8 +11,8 @@ title: 发表论文
 - Jinglin Liang, Jin Zhong, Hanlin Gu, Zhongqi Lu, Xingxing Tang, Gang Dai, Shuangping Huang, Lixin Fan, Qiang Yang, Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning, ECCV 2024, Accepted (Oral)
 - Zhihao Xu, Shengjie Gong,Jiapeng Tang, Lingyu Liang,Yining Huang, Haojie Li,Shuangping Huang, KMTalk:Speech-Driven 3D FacialAnimation with Key Motion Embedding, ECCV 2024, Accepted
 - Gang Dai, Yifan Zhang, Quhui Ke,  Qiangya Guo,  Shuangping Huang,  One-Shot Diffusion Mimicker for Handwritten Text Generation, ECCV 2024, Accepted
--  Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023，CCF A, Accepted
-- Gang Dai, Yifan Zhang, Qingfeng Wang, Qing Du, Zhuliang Yu, Zhuoman Liu, Shuangping Huang, Disentangling Writer and Character Styles for Handwriting Generation, CVPR 2023，CCF A, Accepted
+-  Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023，CCF A
+- Gang Dai, Yifan Zhang, Qingfeng Wang, Qing Du, Zhuliang Yu, Zhuoman Liu, Shuangping Huang, Disentangling Writer and Character Styles for Handwriting Generation, CVPR 2023，CCF A
 - FanYang, LeiHu, Shuangping Huang*, A large-scale dataset for end-to-end table recognition in the wild, Scientific Data, 2023（IF=8.501，JCR Q1）
 - Shuangping Huang, Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Haobin Wang, DropRegion Training of Inception Font Network for High-Performance Chinese Font Recognition, Pattern Recognition，77: 395-411, 2018（IF=7.196，JCR Q1）
 - Shuangping Huang, Lianwen Jin, Kunnan Xue, Yuan Fang, Online Primal-dual Learning for a Data-dependent Multi-kernel Combination Model with Multi-class Visual Categorization Applications, Information Sciences，320: 75-100, 2015（IF=5.910, JCR Q1）
