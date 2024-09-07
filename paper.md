@@ -5,8 +5,13 @@ title: 发表论文
 ---
 
 ## 发表论文
-
-- Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023，CCF A, Accepted
+- Zihao Lin, Jinrong Li, Gang Dai, Tianshui Chen, Shuangping Huang, Jianmin Lin. Contrastive representation enhancement and learning for handwritten mathematical expression recognition, PRL2024, Accepted
+- Lei Hu, Shuangping Huang, Enhancing Table Structure Recognition via Bounding Box Guidance, ICPR2024, Accepted
+- Junxiang Lin, Zhounan Chen , Lingyu Liang, Wenjie Peng, Shuangping Huang, Handwriting Trajectory Recovery via Trajectory Transformer with Global Radical Context-Aware Module, ICPR2024, Accepted
+- Jinglin Liang, Jin Zhong, Hanlin Gu, Zhongqi Lu, Xingxing Tang, Gang Dai, Shuangping Huang, Lixin Fan, Qiang Yang, Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning, ECCV 2024, Accepted (Oral)
+- Zhihao Xu, Shengjie Gong,Jiapeng Tang, Lingyu Liang,Yining Huang, Haojie Li,Shuangping Huang, KMTalk:Speech-Driven 3D FacialAnimation with Key Motion Embedding, ECCV 2024, Accepted
+- Gang Dai, Yifan Zhang, Quhui Ke,  Qiangya Guo,  Shuangping Huang,  One-Shot Diffusion Mimicker for Handwritten Text Generation, ECCV 2024, Accepted
+-  Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023，CCF A, Accepted
 - Gang Dai, Yifan Zhang, Qingfeng Wang, Qing Du, Zhuliang Yu, Zhuoman Liu, Shuangping Huang, Disentangling Writer and Character Styles for Handwriting Generation, CVPR 2023，CCF A, Accepted
 - FanYang, LeiHu, Shuangping Huang*, A large-scale dataset for end-to-end table recognition in the wild, Scientific Data, 2023（IF=8.501，JCR Q1）
 - Shuangping Huang, Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Haobin Wang, DropRegion Training of Inception Font Network for High-Performance Chinese Font Recognition, Pattern Recognition，77: 395-411, 2018（IF=7.196，JCR Q1）
