@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Bianzhe Wu, ZeRong Huang, Jinglin Liang, Hong Yang, Wei Wang, Shuangping Huang, LiDa Chen, and Qinghua Huang. GLCV-NET: An Automatic Diagnosis System For Advanced Liver Fibrosis Using Global-Local Cross View In B-mode Ultrasound Images. Computer Methods and Programs in Biomedicine 2024, Accepted
 - Zihao Lin, Jinrong Li, Gang Dai, Tianshui Chen, Shuangping Huang, Jianmin Lin. Contrastive representation enhancement and learning for handwritten mathematical expression recognition, PRL2024, Accepted
 - Lei Hu, Shuangping Huang, Enhancing Table Structure Recognition via Bounding Box Guidance, ICPR2024, Accepted
 - Junxiang Lin, Zhounan Chen , Lingyu Liang, Wenjie Peng, Shuangping Huang, Handwriting Trajectory Recovery via Trajectory Transformer with Global Radical Context-Aware Module, ICPR2024, Accepted
