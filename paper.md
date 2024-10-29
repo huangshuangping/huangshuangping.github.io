@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Wenjie Peng, Hongxiang Huang, Tianshui Chen, Quhui Ke, Gang Dai, and Shuangping Huang. Globally Correlation-Aware Hard Negative Generation, International Journal of Computer Vision 2024, Accepted
 - LIU Zong-hao, PENG Wen-jie, DAI Gang, HUANG Shuang-ping, LIU Yong-ge. Semantic-Enhanced Zero-shot Oracle Character Recognition[J]. Acta Electronica Sinica, 2024
 - Bianzhe Wu, ZeRong Huang, Jinglin Liang, Hong Yang, Wei Wang, Shuangping Huang, LiDa Chen, and Qinghua Huang, GLCV-NET: An Automatic Diagnosis System For Advanced Liver Fibrosis Using Global-Local Cross View In B-mode Ultrasound Images, Computer Methods and Programs in Biomedicine 2024, Accepted
 - Zihao Lin, Jinrong Li, Gang Dai, Tianshui Chen, Shuangping Huang, Jianmin Lin, Contrastive representation enhancement and learning for handwritten mathematical expression recognition, PRL2024, Accepted
