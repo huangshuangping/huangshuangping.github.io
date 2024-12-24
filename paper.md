@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Shuangping Huang, Zinan Hong, Bianzhe Wu,inglin Liang, Qinghua Huang, Spatio-Temporal Collaborative Multiple-stream Transformer Network for liverLesion Classification on Multiple-sequence Magnetic Resonance Imaging, EAAI 2024, Accepted
 - Wenjie Peng, Hongxiang Huang, Tianshui Chen, Quhui Ke, Gang Dai, and Shuangping Huang. Globally Correlation-Aware Hard Negative Generation, International Journal of Computer Vision 2024, Accepted
 - LIU Zong-hao, PENG Wen-jie, DAI Gang, HUANG Shuang-ping, LIU Yong-ge. Semantic-Enhanced Zero-shot Oracle Character Recognition[J]. Acta Electronica Sinica, 2024
 - Bianzhe Wu, ZeRong Huang, Jinglin Liang, Hong Yang, Wei Wang, Shuangping Huang, LiDa Chen, and Qinghua Huang, GLCV-NET: An Automatic Diagnosis System For Advanced Liver Fibrosis Using Global-Local Cross View In B-mode Ultrasound Images, Computer Methods and Programs in Biomedicine 2024, Accepted
