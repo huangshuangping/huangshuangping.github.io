@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Zhi-Yuan Zhang, Li Xiaofan, Zhihao Xu, Wenjie Peng, Zijian Zhou, Miaojing Shi, Shuangping Huang, MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving, CVPR 2025, Accepted.
 - Zhenghua Peng, Tianshui Chen, Shuangping Huang, Yunqing Hu, Heterogeneous Correlation Aware Regularization for Sequential Confidence Calibration, TPAMI 2025, Accepted.
 - Shuangping Huang, Zinan Hong, Bianzhe Wu,inglin Liang, Qinghua Huang, Spatio-Temporal Collaborative Multiple-stream Transformer Network for liverLesion Classification on Multiple-sequence Magnetic Resonance Imaging, EAAI 2024, Accepted
 - Wenjie Peng, Hongxiang Huang, Tianshui Chen, Quhui Ke, Gang Dai, and Shuangping Huang. Globally Correlation-Aware Hard Negative Generation, International Journal of Computer Vision 2024, Accepted
