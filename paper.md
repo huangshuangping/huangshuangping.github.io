@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- ·	Gang Dai, Yifan Zhang, Yutao Qin, Qiangya Guo, Shuangping Huang, Shuicheng YAN,Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation.ICCV 2025，Accepted.
 - Lei Hu, Zhiyong Gan, Ling Deng, Jinglin Liang, Lingyu Liang, Shuangping Huang, Tianshui Chen, ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection, IJCAI 2025, Accepted.
 - Shengjie Gong, Haojie Li, jiapeng Tang, Dongming Hu,Shuangping Huang, Hao Chen, Tianshui chen, Zhuoman Liu, Monocular and Generalizable Gaussian Talking Head Animation, CVPR 2025, Accepted.
 - Zhi-Yuan Zhang, Li Xiaofan, Zhihao Xu, Wenjie Peng, Zijian Zhou, Miaojing Shi, Shuangping Huang, MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving, CVPR 2025, Accepted.
