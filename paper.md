@@ -5,6 +5,9 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Fan Yang, Ling Deng, Zhiyong Gan, Qisheng He, Yuanbo Fang, Xiangmin Xu, Shuangping Huang, Tianshui Chen, Optimal Feature Embedding for Document Large Visual Language Model, ACM MM 2025, Accepted.
+- Fan Yang, Ling Deng, Zhiyong Gan, Shuangping Huang, Tianshui Chen, An Alignment-Error-Free Framework for End-to-End Table Recognition, Expert Systems With Applications 2025, Accepted.
+- Jinglin Liang, Yutao Qin, huangping Huang, YunQing Hu, Xinwu Liu, Huiyuan Zhang, Tianshui Chen, Knowledge-Embedded Graph Representation Learning for Document-Level Relation Extraction, Expert Systems With Applications 2025, Accepted.
 - Gang Dai, Yifan Zhang, Yutao Qin, Qiangya Guo, Shuangping Huang, Shuicheng YAN,Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation.ICCV 2025, Accepted.
 - Lei Hu, Zhiyong Gan, Ling Deng, Jinglin Liang, Lingyu Liang, Shuangping Huang, Tianshui Chen, ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection, IJCAI 2025, Accepted.
 - Shengjie Gong, Haojie Li, jiapeng Tang, Dongming Hu,Shuangping Huang, Hao Chen, Tianshui chen, Zhuoman Liu, Monocular and Generalizable Gaussian Talking Head Animation, CVPR 2025, Accepted.
