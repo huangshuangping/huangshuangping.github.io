@@ -5,7 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
-- ·	jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025(Accepted).
+- jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025(Accepted).
 - Gege Zhang, Zhiyong Gan, Ling Deng, Shuaicheng Niu, Zhenghua Peng, Gang Dai, Shuangping Huang, Xiangmin Xua, A Text-only Weakly Supervised Learning Framework for Text Spotting via Text-to-Polygon Generator, PR 2025, Accepted.
 - Fan Yang, Ling Deng, Zhiyong Gan, Qisheng He, Yuanbo Fang, Xiangmin Xu, Shuangping Huang, Tianshui Chen, Optimal Feature Embedding for Document Large Visual Language Model, ACM MM 2025, Accepted.
 - Fan Yang, Ling Deng, Zhiyong Gan, Shuangping Huang, Tianshui Chen, An Alignment-Error-Free Framework for End-to-End Table Recognition, Expert Systems With Applications 2025, Accepted.
