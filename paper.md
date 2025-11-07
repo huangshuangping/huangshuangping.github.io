@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical lmage Segmentation, fractal and fractional 2025, Accepted
 - Wenjie Peng, Quhui Ke, Jinglin Liang, Shuangping Huang, Tianshui Chen, Proxy-AN Loss for Deep Metric Learning, NN 2025, Accepted
 - jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025(Accepted).
 - Gege Zhang, Zhiyong Gan, Ling Deng, Shuaicheng Niu, Zhenghua Peng, Gang Dai, Shuangping Huang, Xiangmin Xua, A Text-only Weakly Supervised Learning Framework for Text Spotting via Text-to-Polygon Generator, PR 2025, Accepted.
