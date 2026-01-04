@@ -5,6 +5,8 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, lmproving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
+-	Fan Yang , Junwen Tan , Tianshui Chen , Shuangping Huang,  Yunqing Hu, The Unambiguous Structure Representation of Tabular Data for Recognition, NN 2025(Accepted)
 - Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical lmage Segmentation, fractal and fractional 2025, Accepted
 - Wenjie Peng, Quhui Ke, Jinglin Liang, Shuangping Huang, Tianshui Chen, Proxy-AN Loss for Deep Metric Learning, NN 2025, Accepted
 - jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025(Accepted).
