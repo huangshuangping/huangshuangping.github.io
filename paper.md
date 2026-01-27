@@ -5,13 +5,15 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR2026(Accepted)
+- Qiangya Guo, Gang Dai, Zhuoman Liu, Shuangping Huang, Yunqing Hu, Huiyuan Zhang, Tianshui Chen, Plan then Act: Bi-level CAD Command Sequence Generation, ICLR2026(Accepted)
 - Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, lmproving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
--	Fan Yang , Junwen Tan , Tianshui Chen , Shuangping Huang,  Yunqing Hu, The Unambiguous Structure Representation of Tabular Data for Recognition, NN 2025(Accepted)
+-	Fan Yang, Junwen Tan, Tianshui Chen, Shuangping Huang,  Yunqing Hu, The Unambiguous Structure Representation of Tabular Data for Recognition, NN 2025(Accepted)
 - Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical lmage Segmentation, fractal and fractional 2025, Accepted
 - Wenjie Peng, Quhui Ke, Jinglin Liang, Shuangping Huang, Tianshui Chen, Proxy-AN Loss for Deep Metric Learning, NN 2025, Accepted
-- jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025(Accepted).
+- jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025.
 - Gege Zhang, Zhiyong Gan, Ling Deng, Shuaicheng Niu, Zhenghua Peng, Gang Dai, Shuangping Huang, Xiangmin Xua, A Text-only Weakly Supervised Learning Framework for Text Spotting via Text-to-Polygon Generator, PR 2025, Accepted.
-- Fan Yang, Ling Deng, Zhiyong Gan, Qisheng He, Yuanbo Fang, Xiangmin Xu, Shuangping Huang, Tianshui Chen, Optimal Feature Embedding for Document Large Visual Language Model, ACM MM 2025, Accepted.
+- Fan Yang, Ling Deng, Zhiyong Gan, Qisheng He, Yuanbo Fang, Xiangmin Xu, Shuangping Huang, Tianshui Chen, Optimal Feature Embedding for Document Large Visual Language Model, ACM MM 2025.
 - Fan Yang, Ling Deng, Zhiyong Gan, Shuangping Huang, Tianshui Chen, An Alignment-Error-Free Framework for End-to-End Table Recognition, Expert Systems With Applications 2025, Accepted.
 - Jinglin Liang, Yutao Qin, Shuangping Huang, YunQing Hu, Xinwu Liu, Huiyuan Zhang, Tianshui Chen, Knowledge-Embedded Graph Representation Learning for Document-Level Relation Extraction, Expert Systems With Applications 2025, Accepted.
 - Gang Dai, Yifan Zhang, Yutao Qin, Qiangya Guo, Shuangping Huang, Shuicheng YAN,Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation.ICCV 2025, Accepted.
