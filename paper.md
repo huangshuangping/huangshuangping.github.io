@@ -5,8 +5,8 @@ title: 发表论文
 ---
 
 ## 发表论文
-- Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR2026(Accepted)
-- Qiangya Guo, Gang Dai, Zhuoman Liu, Shuangping Huang, Yunqing Hu, Huiyuan Zhang, Tianshui Chen, Plan then Act: Bi-level CAD Command Sequence Generation, ICLR2026(Accepted)
+- Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR 2026(Accepted)
+- Qiangya Guo, Gang Dai, Zhuoman Liu, Shuangping Huang, Yunqing Hu, Huiyuan Zhang, Tianshui Chen, Plan then Act: Bi-level CAD Command Sequence Generation, ICLR 2026(Accepted)
 - Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, lmproving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
 -	Fan Yang, Junwen Tan, Tianshui Chen, Shuangping Huang,  Yunqing Hu, The Unambiguous Structure Representation of Tabular Data for Recognition, NN 2025(Accepted)
 - Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical lmage Segmentation, fractal and fractional 2025, Accepted
