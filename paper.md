@@ -5,6 +5,8 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Junwen Tan, Jinglin Liang, Hongyuan Chen, Shuangping Huang, VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation, CVPR2026(Accepted)
+- Yutao Qin, Gang Dai, Yifan Zhang, Youwei Han, Qisheng He, Shuangping Huang, Towards Human-Like Robot Handwriting via Contour-Aware Generation, CVPR 2026(Accepted)
 - Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR 2026(Accepted)
 - Qiangya Guo, Gang Dai, Zhuoman Liu, Shuangping Huang, Yunqing Hu, Huiyuan Zhang, Tianshui Chen, Plan then Act: Bi-level CAD Command Sequence Generation, ICLR 2026(Accepted)
 - Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, lmproving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
