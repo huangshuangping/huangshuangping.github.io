@@ -5,39 +5,39 @@ title: 发表论文
 ---
 
 ## 发表论文
-- Jin Zhong, Jinglin Liang, Tongtong Yang, Zijian Xie, Shuangping Huang, Hanlin Gu,LLEOT: A Privacy-Enhancing Offsite Tuning Framework via Loss Landscape Elevation, ACL 2026 Findings
+- Jin Zhong, Jinglin Liang, Tongtong Yang, Zijian Xie, Shuangping Huang, Hanlin Gu, LLEOT: A Privacy-Enhancing Offsite Tuning Framework via Loss Landscape Elevation, ACL 2026 Findings
 - Junwen Tan, Jinglin Liang, Hongyuan Chen, Shuangping Huang, VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation, CVPR 2026(Accepted)
 - Yutao Qin, Gang Dai, Yifan Zhang, Youwei Han, Qisheng He, Shuangping Huang, Towards Human-Like Robot Handwriting via Contour-Aware Generation, CVPR 2026(Accepted)
 - Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR 2026(Accepted)
 - Qiangya Guo, Gang Dai, Zhuoman Liu, Shuangping Huang, Yunqing Hu, Huiyuan Zhang, Tianshui Chen, Plan then Act: Bi-level CAD Command Sequence Generation, ICLR 2026(Accepted)
-- Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, lmproving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
+- Keke Xu, Zhenghua Peng, Shuangping Huang, Gege Zhang, Yunqing Hu, Wenjie Peng, Improving Pseudo-labeling by Dynamic Confidence Calibration for Semi-Supervised Sequence Recognition, Transactions on Multimedia Computing, Communications, and Applications 2026(Accepted)
 -	Fan Yang, Junwen Tan, Tianshui Chen, Shuangping Huang,  Yunqing Hu, The Unambiguous Structure Representation of Tabular Data for Recognition, NN 2025(Accepted)
-- Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical lmage Segmentation, fractal and fractional 2025, Accepted
+- Gang Dai, QingfengWang, Yutao Qin, Gang Wei, Shuangping Huang, VG-SAM: Visual In-Context Guided SAM for Universal Medical Image Segmentation, fractal and fractional 2025, Accepted
 - Wenjie Peng, Quhui Ke, Jinglin Liang, Shuangping Huang, Tianshui Chen, Proxy-AN Loss for Deep Metric Learning, NN 2025, Accepted
-- jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality,NIPS 2025.
+- jinglin Liang, jin zhong, shuangping Huang, Yunging Hu, Huiyuan Zhang, Huifang Li, Lixin Fan, Hanlin Gu, Order-Level Attention Similarity Across Language Models: A Latent commonality, NIPS 2025.
 - Gege Zhang, Zhiyong Gan, Ling Deng, Shuaicheng Niu, Zhenghua Peng, Gang Dai, Shuangping Huang, Xiangmin Xua, A Text-only Weakly Supervised Learning Framework for Text Spotting via Text-to-Polygon Generator, PR 2025, Accepted.
 - Fan Yang, Ling Deng, Zhiyong Gan, Qisheng He, Yuanbo Fang, Xiangmin Xu, Shuangping Huang, Tianshui Chen, Optimal Feature Embedding for Document Large Visual Language Model, ACM MM 2025.
 - Fan Yang, Ling Deng, Zhiyong Gan, Shuangping Huang, Tianshui Chen, An Alignment-Error-Free Framework for End-to-End Table Recognition, Expert Systems With Applications 2025, Accepted.
 - Jinglin Liang, Yutao Qin, Shuangping Huang, YunQing Hu, Xinwu Liu, Huiyuan Zhang, Tianshui Chen, Knowledge-Embedded Graph Representation Learning for Document-Level Relation Extraction, Expert Systems With Applications 2025, Accepted.
-- Gang Dai, Yifan Zhang, Yutao Qin, Qiangya Guo, Shuangping Huang, Shuicheng YAN,Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation.ICCV 2025, Accepted.
+- Gang Dai, Yifan Zhang, Yutao Qin, Qiangya Guo, Shuangping Huang, Shuicheng YAN, Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation.ICCV 2025, Accepted.
 - Lei Hu, Zhiyong Gan, Ling Deng, Jinglin Liang, Lingyu Liang, Shuangping Huang, Tianshui Chen, ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection, IJCAI 2025, Accepted.
-- Shengjie Gong, Haojie Li, jiapeng Tang, Dongming Hu,Shuangping Huang, Hao Chen, Tianshui chen, Zhuoman Liu, Monocular and Generalizable Gaussian Talking Head Animation, CVPR 2025, Accepted.
+- Shengjie Gong, Haojie Li, jiapeng Tang, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui chen, Zhuoman Liu, Monocular and Generalizable Gaussian Talking Head Animation, CVPR 2025, Accepted.
 - Zhi-Yuan Zhang, Li Xiaofan, Zhihao Xu, Wenjie Peng, Zijian Zhou, Miaojing Shi, Shuangping Huang, MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving, CVPR 2025, Accepted.
 - Zhenghua Peng, Tianshui Chen, Shuangping Huang, Yunqing Hu, Heterogeneous Correlation Aware Regularization for Sequential Confidence Calibration, TPAMI 2025, Accepted.
-- Shuangping Huang, Zinan Hong, Bianzhe Wu,inglin Liang, Qinghua Huang, Spatio-Temporal Collaborative Multiple-stream Transformer Network for liverLesion Classification on Multiple-sequence Magnetic Resonance Imaging, EAAI 2024, Accepted
+- Shuangping Huang, Zinan Hong, Bianzhe Wu,Jinglin Liang, Qinghua Huang, Spatio-Temporal Collaborative Multiple-stream Transformer Network for Liver Lesion Classification on Multiple-Sequence Magnetic Resonance Imaging, EAAI 2024, Accepted
 - Wenjie Peng, Hongxiang Huang, Tianshui Chen, Quhui Ke, Gang Dai, and Shuangping Huang. Globally Correlation-Aware Hard Negative Generation, International Journal of Computer Vision 2024, Accepted
 - LIU Zong-hao, PENG Wen-jie, DAI Gang, HUANG Shuang-ping, LIU Yong-ge. Semantic-Enhanced Zero-shot Oracle Character Recognition[J]. Acta Electronica Sinica, 2024
 - Bianzhe Wu, ZeRong Huang, Jinglin Liang, Hong Yang, Wei Wang, Shuangping Huang, LiDa Chen, and Qinghua Huang, GLCV-NET: An Automatic Diagnosis System For Advanced Liver Fibrosis Using Global-Local Cross View In B-mode Ultrasound Images, Computer Methods and Programs in Biomedicine 2024, Accepted
 - Zihao Lin, Jinrong Li, Gang Dai, Tianshui Chen, Shuangping Huang, Jianmin Lin, Contrastive representation enhancement and learning for handwritten mathematical expression recognition, PRL2024, Accepted
 - Lei Hu, Shuangping Huang, Enhancing Table Structure Recognition via Bounding Box Guidance, ICPR2024, Accepted
-- Junxiang Lin, Zhounan Chen , Lingyu Liang, Wenjie Peng, Shuangping Huang, Handwriting Trajectory Recovery via Trajectory Transformer with Global Radical Context-Aware Module, ICPR2024, Accepted
+- Junxiang Lin, Zhounan Chen, Lingyu Liang, Wenjie Peng, Shuangping Huang, Handwriting Trajectory Recovery via Trajectory Transformer with Global Radical Context-Aware Module, ICPR2024, Accepted
 - Jinglin Liang, Jin Zhong, Hanlin Gu, Zhongqi Lu, Xingxing Tang, Gang Dai, Shuangping Huang, Lixin Fan, Qiang Yang, Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning, ECCV 2024, Accepted (Oral)
-- Zhihao Xu, Shengjie Gong,Jiapeng Tang, Lingyu Liang,Yining Huang, Haojie Li,Shuangping Huang, KMTalk:Speech-Driven 3D FacialAnimation with Key Motion Embedding, ECCV 2024, Accepted
+- Zhihao Xu, Shengjie Gong, Jiapeng Tang, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang, KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding, ECCV 2024, Accepted
 - Gang Dai, Yifan Zhang, Quhui Ke,  Qiangya Guo,  Shuangping Huang,  One-Shot Diffusion Mimicker for Handwritten Text Generation, ECCV 2024, Accepted
--  Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023，CCF A
-- Gang Dai, Yifan Zhang, Qingfeng Wang, Qing Du, Zhuliang Yu, Zhuoman Liu, Shuangping Huang, Disentangling Writer and Character Styles for Handwriting Generation, CVPR 2023，CCF A
+-  Zhenghua Peng, Yu Luo, Tianshui Chen, Keke Xu, Shuangping Huang, Perception and Semantic Aware Regularization for Sequential Confidence Calibration, CVPR 2023， CCF A
+- Gang Dai, Yifan Zhang, Qingfeng Wang, Qing Du, Zhuliang Yu, Zhuoman Liu, Shuangping Huang, Disentangling Writer and Character Styles for Handwriting Generation, CVPR 2023， CCF A
 - FanYang, LeiHu, Shuangping Huang*, A large-scale dataset for end-to-end table recognition in the wild, Scientific Data, 2023（IF=8.501，JCR Q1）
-- Shuangping Huang, Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Haobin Wang, DropRegion Training of Inception Font Network for High-Performance Chinese Font Recognition, Pattern Recognition，77: 395-411, 2018（IF=7.196，JCR Q1）
+- Shuangping Huang, Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Haobin Wang, DropRegion Training of Inception Font Network for High-Performance Chinese Font Recognition, Pattern Recognition，77: 395-411, 2018（IF=7.196， JCR Q1）
 - Shuangping Huang, Lianwen Jin, Kunnan Xue, Yuan Fang, Online Primal-dual Learning for a Data-dependent Multi-kernel Combination Model with Multi-class Visual Categorization Applications, Information Sciences，320: 75-100, 2015（IF=5.910, JCR Q1）
 - Haojie Li, Daihui Yang, Shuangping Huang*, Kin-Man Lam, Lianwen Jin, Two-Dimensional Multi-Scale Perceptive Context for Scene Text Recognition, Neurocomputing, 41: 410-421, 2020 (IF=4.438, JCR Q1);
 - Ziyong Feng, Zhaoyang Zhao, Lianwen Jin, Shuangping Huang*, Robust shared feature learning for script and handwritten/machine-printed identification, Pattern Recognition Letters，2017（IF=3.255, JCR Q2）
