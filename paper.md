@@ -5,6 +5,7 @@ title: 发表论文
 ---
 
 ## 发表论文
+- Jin Zhong, Jinglin Liang, Tongtong Yang, Zijian Xie, Shuangping Huang, Hanlin Gu,LLEOT: A Privacy-Enhancing Offsite Tuning Framework via Loss Landscape Elevation, ACL 2026 Findings
 - Junwen Tan, Jinglin Liang, Hongyuan Chen, Shuangping Huang, VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation, CVPR 2026(Accepted)
 - Yutao Qin, Gang Dai, Yifan Zhang, Youwei Han, Qisheng He, Shuangping Huang, Towards Human-Like Robot Handwriting via Contour-Aware Generation, CVPR 2026(Accepted)
 - Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen, Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD, ICLR 2026(Accepted)
