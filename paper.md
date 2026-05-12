@@ -5,6 +5,8 @@ title: 发表论文
 ---
 
 ## 发表论文
+
+- YiKai Li, Quhui Ke, Jinglin Liang, Zhi-Yuan Zhang, Zhidi Lin, Shuangping Huang,SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation, ICML 2026(Accepted)
 - Jin Zhong, Jinglin Liang, Tongtong Yang, Zijian Xie, Shuangping Huang, Hanlin Gu, LLEOT: A Privacy-Enhancing Offsite Tuning Framework via Loss Landscape Elevation, ACL 2026 Findings
 - Junwen Tan, Jinglin Liang, Hongyuan Chen, Shuangping Huang, VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation, CVPR 2026(Accepted)
 - Yutao Qin, Gang Dai, Yifan Zhang, Youwei Han, Qisheng He, Shuangping Huang, Towards Human-Like Robot Handwriting via Contour-Aware Generation, CVPR 2026(Accepted)
