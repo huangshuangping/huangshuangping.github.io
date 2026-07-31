@@ -6,6 +6,7 @@ title: 发表论文
 
 ## 发表论文
 
+- Gege Zhang, Shuaicheng Niu, Gang Dai, Lei Sun, Shuangping Huang, Geometry-Aware Test-Time Learning for Quantitative Spatial Reasoning, ACM MM2026, Accepted
 - Wenjie Peng, Shuangping Huang, Yunqing Hu, Tianshui Chen, Dual-granularity Image-Text Alignment for Zero-Shot Composed Image Retrieval, Expert Systems With Applications 2026, Accepted
 - YiKai Li, Quhui Ke, Jinglin Liang, Zhi-Yuan Zhang, Zhidi Lin, Shuangping Huang,SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation, ICML 2026(Accepted)
 - Jin Zhong, Jinglin Liang, Tongtong Yang, Zijian Xie, Shuangping Huang, Hanlin Gu, LLEOT: A Privacy-Enhancing Offsite Tuning Framework via Loss Landscape Elevation, ACL 2026 Findings
